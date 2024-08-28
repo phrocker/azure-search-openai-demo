@@ -84,7 +84,7 @@
       "value": "${AZURE_APP_SERVICE_PLAN}"
     },
     "appServiceSkuName": {
-      "value": "${AZURE_APP_SERVICE_SKU=B1}"
+      "value": "${AZURE_APP_SERVICE_SKU=B2}"
     },
     "backendServiceName": {
       "value": "${AZURE_APP_SERVICE}"
@@ -222,7 +222,7 @@
       "value": "${USE_FEATURE_INT_VECTORIZATION}"
     },
     "useUserUpload": {
-      "value": "${USE_USER_UPLOAD}"
+      "value": "${USE_USER_UPLOAD=true}"
     },
     "useLocalPdfParser": {
       "value": "${USE_LOCAL_PDF_PARSER}"

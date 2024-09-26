@@ -3,9 +3,9 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "What is the president pro tempore?",
-    "How can the vice president become president?",
-    "What rights are bestowed with the constitition?"
+    "What does it mean to restore CD40L?",
+    "What does targeted gene editing allow?",
+    "What is the impact of multilineage engrafment of HDR-edited cells?"
 ];
 
 const GPT4V_EXAMPLES: string[] = [
